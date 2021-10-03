@@ -394,7 +394,7 @@ function lib:CreateWindow(name)
 	end
 	return cmd
 end
-return lib
+
 
 local window = lib:CreateWindow("krnlxlib")
 
