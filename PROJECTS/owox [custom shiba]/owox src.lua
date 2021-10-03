@@ -853,21 +853,21 @@ end)
 
 Killbot.MouseButton1Click:connect(function()
 	if shita == true then
-		loadstring(game:HttpGet('https://raw.githubusercontent.com/specowos/owox-aka-custom-shiba/main/Killbot.lua'))()
+		loadstring(game:HttpGet('https://raw.githubusercontent.com/specowos/old-lua-projects-archive/main/PROJECTS/owox%20%5Bcustom%20shiba%5D/Killbot.lua'))()
 	else
-		loadstring(game:HttpGet('https://raw.githubusercontent.com/specowos/owox-aka-custom-shiba/main/KillbotELSE.lua'))()
+		loadstring(game:HttpGet('https://raw.githubusercontent.com/specowos/old-lua-projects-archive/main/PROJECTS/owox%20%5Bcustom%20shiba%5D/KillbotELSE.lua'))()
 	end
 end)
 
 Rowomba.MouseButton1Click:connect(function()
-	loadstring(game:HttpGet('https://raw.githubusercontent.com/specowos/owox-aka-custom-shiba/main/rowomba'))()
+	loadstring(game:HttpGet('https://raw.githubusercontent.com/specowos/old-lua-projects-archive/main/PROJECTS/owox%20%5Bcustom%20shiba%5D/rowomba.lua'))()
 end)
 
 EraseHub.MouseButton1Click:connect(function()
 	if shita == true then
-		loadstring(game:HttpGet('https://raw.githubusercontent.com/specowos/owox-aka-custom-shiba/main/EraseHub'))()
+		loadstring(game:HttpGet('https://raw.githubusercontent.com/specowos/old-lua-projects-archive/main/PROJECTS/owox%20%5Bcustom%20shiba%5D/EraseHub.lua'))()
 	else
-		loadstring(game:HttpGet('https://raw.githubusercontent.com/specowos/owox-aka-custom-shiba/main/EraseHubELSE.lua'))()
+		loadstring(game:HttpGet('https://raw.githubusercontent.com/specowos/old-lua-projects-archive/main/PROJECTS/owox%20%5Bcustom%20shiba%5D/EraseHubELSE.lua'))()
 	end
 end)
 
