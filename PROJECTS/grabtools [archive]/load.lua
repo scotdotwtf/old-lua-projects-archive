@@ -1,4 +1,8 @@
 --[[
+
+    >> THIS IS A ARCHIVE OF THE ORGINAL (and best) GRABTOOLS <<
+    >> thank spec :> <<
+
     Grab Tool made by Crokuran
     
     Instructions:
@@ -29,5 +33,5 @@ _G.scrollspeed = 1
 _G.rotspeed = 5
 
 
--- Load from pastebin
-loadstring(game:HttpGet('https://raw.githubusercontent.com/specowos/grabtoolarchive1/main/inside.lua'))()
+-- Load from pastebin || >> Pastebin broke so i uploaded it to my github <<
+loadstring(game:HttpGet('https://raw.githubusercontent.com/specowos/old-lua-projects-archive/main/PROJECTS/grabtools%20%5Barchive%5D/inside.lua'))()
