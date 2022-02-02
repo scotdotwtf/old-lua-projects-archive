@@ -22,4 +22,5 @@ OFFSET = CFrame.Angles(math.rad(-90),math.rad(0),math.rad(45))   -- Change the l
 HOLD_OFFSET = CFrame.Angles(math.rad(0),math.rad(80),math.rad(45))
 
 loadstring(game:HttpGet("https://raw.githubusercontent.com/specowos/old-lua-projects-archive/main/PROJECTS/FE%20Skateboard%20(NOT%20MADE%20BY%20ME)/Skateboard.lua"))()
---// Original https://raw.githubusercontent.com/saucekid/scripts/main/sauceskate.lua
+--// Original https://github.com/saucekid/scripts/blob/main/sauceskate.lua 
+--// Raw https://raw.githubusercontent.com/saucekid/scripts/main/sauceskate.lua
