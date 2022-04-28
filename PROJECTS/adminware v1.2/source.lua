@@ -1,20 +1,8 @@
 --spec is hot :flushed:
+print("im very sorry if u still use this LOL, it works tho")
 
-rconsolename('Specs GUI Loader V1.0.0')
-rconsoleprint('@@LIGHT_RED@@')
-rconsoleprint('Waiting for game to load...') 
-
-	
-wait(3)
 if game:IsLoaded() then
-	wait(1)
-		
-	rconsoleprint('\n') 
-	rconsoleprint('Game loaded!') 
-	rconsoleprint('\n') 
-	rconsoleprint('\n') 
-	rconsoleprint('@@RED@@')
-	rconsoleprint('\nLoading...')
+	wait()
 	
 	local adminwarev12 = Instance.new("ScreenGui")
 	local Awaredragframe = Instance.new("Frame")
@@ -1617,11 +1605,11 @@ if game:IsLoaded() then
 		end,
 
 		["furryidentify"] = function()
-						game.StarterGui:SetCore("SendNotification", {
+				game.StarterGui:SetCore("SendNotification", {
 				Title = "Notification";
 				Text = "Hey! Spec here, just telling you that this script is broken due to agent deleting it";
 				Icon = "rbxassetid://6741528348";
-				Duration = 3;
+				Duration = 3;})
 		end,
 
 		["land"] = function()
@@ -1671,7 +1659,7 @@ if game:IsLoaded() then
 				Title = "Notification";
 				Text = "Hey! Spec here, just telling you that this script is broken due to agent deleting it";
 				Icon = "rbxassetid://6741528348";
-				Duration = 3;
+				Duration = 3;})
 		end,
 		
 		["ser6"] = function()
@@ -1886,10 +1874,6 @@ if game:IsLoaded() then
 	searchbox2.Changed:Connect(UpdateResults)
 
 	adminwarev12.Enabled = true
-	rconsoleprint('@@LIGHT_RED@@')
-	rconsoleprint('\nLoaded!')
-	rconsoleprint('@@WHITE@@')
-	rconsoleprint('\nThanks for using Specs GUI Loader!')
 
 	wait(5)
 	Notification:TweenPosition(UDim2.new(1.1, 0,0.791, 0),"Out","Sine",.5)
