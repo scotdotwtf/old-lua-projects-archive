@@ -21,6 +21,6 @@ GRIP            = 0
 OFFSET = CFrame.Angles(math.rad(-90),math.rad(0),math.rad(45))   -- Change the last number to 45 if it is weird or 135 in some cases
 HOLD_OFFSET = CFrame.Angles(math.rad(0),math.rad(80),math.rad(45))
 
-loadstring(game:HttpGet("https://raw.githubusercontent.com/specowos/old-lua-projects-archive/main/PROJECTS/FE%20Skateboard%20(NOT%20MADE%20BY%20ME)/Skateboard.lua"))()
+loadstring(game:HttpGet("https://raw.githubusercontent.com/scotdotwtf/old-lua-projects-archive/main/PROJECTS/FE%20Skateboard%20(NOT%20MADE%20BY%20ME)/Skateboard.lua"))()
 --// Original https://github.com/saucekid/scripts/blob/main/sauceskate.lua 
 --// Raw https://raw.githubusercontent.com/saucekid/scripts/main/sauceskate.lua
