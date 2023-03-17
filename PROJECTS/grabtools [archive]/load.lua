@@ -34,4 +34,4 @@ _G.rotspeed = 5
 
 
 -- Load from pastebin || >> Pastebin broke so i uploaded it to my github <<
-loadstring(game:HttpGet('https://raw.githubusercontent.com/specowos/old-lua-projects-archive/main/PROJECTS/grabtools%20%5Barchive%5D/inside.lua'))()
+loadstring(game:HttpGet('https://raw.githubusercontent.com/scotdotwtf/old-lua-projects-archive/main/PROJECTS/grabtools%20%5Barchive%5D/inside.lua'))()
