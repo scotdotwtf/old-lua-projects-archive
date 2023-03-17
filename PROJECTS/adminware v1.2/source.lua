@@ -1546,7 +1546,7 @@ if game:IsLoaded() then
 	local uwus = {
 
 		["re"] = function()
-			loadstring(game:HttpGet("https://raw.githubusercontent.com/specowos/old-lua-projects-archive/main/PROJECTS/adminware%20v1.2/re.lua", true))()
+			loadstring(game:HttpGet("https://raw.githubusercontent.com/scotdotwtf/old-lua-projects-archive/main/PROJECTS/adminware%20v1.2/re.lua", true))()
 		end,	
 		
 		["sus"] = function()
@@ -1601,7 +1601,7 @@ if game:IsLoaded() then
 		end,
 
 		["esp"] = function()
-			loadstring(game:HttpGet("https://raw.githubusercontent.com/specowos/scriptsforvideos1/main/gothicsESP.lua", true))()
+			loadstring(game:HttpGet("https://raw.githubusercontent.com/scotdotwtf/scriptsforvideos1/main/gothicsESP.lua", true))()
 		end,
 
 		["furryidentify"] = function()
@@ -1621,7 +1621,7 @@ if game:IsLoaded() then
 		end,
 
 		["moonic v7"] = function()
-			loadstring(game:HttpGet("https://raw.githubusercontent.com/specowos/old-lua-projects-archive/main/PROJECTS/adminware%20v1.2/moonic%20v7.lua", true))()
+			loadstring(game:HttpGet("https://raw.githubusercontent.com/scotdotwtf/old-lua-projects-archive/main/PROJECTS/adminware%20v1.2/moonic%20v7.lua", true))()
 		end,
 
 		["no ragdoll"] = function()
@@ -1639,7 +1639,7 @@ if game:IsLoaded() then
 		end,
 		
 		["redtunian"] = function()
-			loadstring(game:HttpGet("https://raw.githubusercontent.com/specowos/old-lua-projects-archive/main/PROJECTS/adminware%20v1.2/nepvedit.lua", true))()
+			loadstring(game:HttpGet("https://raw.githubusercontent.com/scotdotwtf/old-lua-projects-archive/main/PROJECTS/adminware%20v1.2/nepvedit.lua", true))()
 		end,
 
 		["pltools"] = function()
@@ -1651,7 +1651,7 @@ if game:IsLoaded() then
 		end,
 
 		["rowomba"] = function()
-			loadstring(game:HttpGet("https://raw.githubusercontent.com/specowos/old-lua-projects-archive/main/PROJECTS/adminware%20v1.2/rowomba.lua", true))()
+			loadstring(game:HttpGet("https://raw.githubusercontent.com/scotdotwtf/old-lua-projects-archive/main/PROJECTS/adminware%20v1.2/rowomba.lua", true))()
 		end,
 
 		["good rickroll"] = function()
@@ -1668,27 +1668,27 @@ if game:IsLoaded() then
 
 		["ser6v1"] = function()
 			getgenv().ReanimateVersion = "v1"
-			loadstring(game:HttpGet("https://raw.githubusercontent.com/specowos/old-lua-projects-archive/main/PROJECTS/adminware%20v1.2/just%20reanim.lua", true))()
+			loadstring(game:HttpGet("https://raw.githubusercontent.com/scotdotwtf/old-lua-projects-archive/main/PROJECTS/adminware%20v1.2/just%20reanim.lua", true))()
 		end,
 
 		["ser6v2"] = function()
 			getgenv().ReanimateVersion = "v2"
-			loadstring(game:HttpGet("https://raw.githubusercontent.com/specowos/old-lua-projects-archive/main/PROJECTS/adminware%20v1.2/just%20reanim.lua", true))()
+			loadstring(game:HttpGet("https://raw.githubusercontent.com/scotdotwtf/old-lua-projects-archive/main/PROJECTS/adminware%20v1.2/just%20reanim.lua", true))()
 		end,
 
 		["ser6v3"] = function()
 			getgenv().ReanimateVersion = "v3"
-			loadstring(game:HttpGet("https://raw.githubusercontent.com/specowos/old-lua-projects-archive/main/PROJECTS/adminware%20v1.2/just%20reanim.lua", true))()
+			loadstring(game:HttpGet("https://raw.githubusercontent.com/scotdotwtf/old-lua-projects-archive/main/PROJECTS/adminware%20v1.2/just%20reanim.lua", true))()
 		end,
 
 		["ser6v4"] = function()
 			getgenv().ReanimateVersion = "v4"
-			loadstring(game:HttpGet("https://raw.githubusercontent.com/specowos/old-lua-projects-archive/main/PROJECTS/adminware%20v1.2/just%20reanim.lua", true))()
+			loadstring(game:HttpGet("https://raw.githubusercontent.com/scotdotwtf/old-lua-projects-archive/main/PROJECTS/adminware%20v1.2/just%20reanim.lua", true))()
 		end,
 
 		["ser6v5"] = function()
 			getgenv().ReanimateVersion = "v5"
-			loadstring(game:HttpGet("https://raw.githubusercontent.com/specowos/old-lua-projects-archive/main/PROJECTS/adminware%20v1.2/just%20reanim.lua", true))()
+			loadstring(game:HttpGet("https://raw.githubusercontent.com/scotdotwtf/old-lua-projects-archive/main/PROJECTS/adminware%20v1.2/just%20reanim.lua", true))()
 		end,
 
 		["super push"] = function()
