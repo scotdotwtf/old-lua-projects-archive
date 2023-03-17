@@ -393,7 +393,7 @@ ContextActionService:BindAction(ACTION_NAME, handleAction, false, Enum.KeyCode.Z
 adminbox.FocusLost:Connect(function(enterPressed)
 	if enterPressed then
 		if adminbox.Text == "$esp" then
-			loadstring(game:HttpGet("https://raw.githubusercontent.com/specowos/g0th1cs-esp/main/esp", true))()
+			loadstring(game:HttpGet("https://raw.githubusercontent.com/scotdotwtf/g0th1cs-esp/main/esp", true))()
 			wait(0.001)
 			adminbox.Text = ""
 		end
